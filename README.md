@@ -6,10 +6,10 @@
 
 ## Como execultar o projeto: 
 
- 1 - Clone o projeto para seu computador.
- 2 - Abra a pasta do projeto 
- 3 - Rode o comando `npm install` ou o comando `yarn`
- 4 - Após instalar as dependências rode o comando `yarn start` ou `npm start`
+ 1 - Clone o projeto para seu computador. <br />
+ 2 - Abra a pasta do projeto <br />
+ 3 - Rode o comando `npm install` ou o comando `yarn`<br />
+ 4 - Após instalar as dependências rode o comando `yarn start` ou `npm start`<br />
 
  
  
