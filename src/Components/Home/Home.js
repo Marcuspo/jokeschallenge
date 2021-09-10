@@ -2,6 +2,7 @@ import {
   Button,
   Card,
   CardContent,
+  Chip,
   CircularProgress,
   Typography,
 } from "@material-ui/core"
@@ -49,6 +50,16 @@ function Home() {
                       {jokes.joke}
                     </Typography>
                   </>
+                  <Typography>
+                    Categorias:{" "}
+                    {jokes.categories.map((categories) => (
+                      <Chip
+                        variant="outlined"
+                        color="primary"
+                        label={categories}
+                      />
+                    ))}
+                  </Typography>
                 </CardContent>
               </Card>
             </FullCard>
