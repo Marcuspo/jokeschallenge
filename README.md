@@ -11,8 +11,3 @@
  3 - Rode o comando `npm install` ou o comando `yarn`<br />
  4 - Após instalar as dependências rode o comando `yarn start` ou `npm start`<br />
 
- 
- 
- 
- - Chuck está feliz e não está bravo
-
